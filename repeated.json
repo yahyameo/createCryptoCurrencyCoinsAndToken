@@ -1,0 +1,53 @@
+[
+  {
+    "name": "BeerCoin",
+    "symbol": "BeerCoin",
+    "website_slug": "beercoin",
+    "addressPrefix": null,
+    "uriScheme": "beercoin",
+    "unitExponent": 0,
+    "symbolImage": "beercoin",
+    "color": "rgba(255;obj. 99;obj. 132;obj. 1)",
+    "addressHeader": 141,
+    "p2shHeader": 5,
+    "spendableCoinbaseDepth": 100,
+    "dumpedPrivateKeyHeader": 128,
+    "isSegWit": true,
+    "feeValue": 200000,
+    "minFeeValue": 1000,
+    "minNonDust": 5460,
+    "apiUrl": [
+      "https://chain.so/api/v2/address/"
+    ],
+    "testNet": true,
+    "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac"
+  },
+  {
+    "name": "Beercoin",
+    "symbol": "BCBC",
+    "website_slug": "bcbc",
+    "addressPrefix": null,
+    "uriScheme": "beercoin",
+    "unitExponent": 0,
+    "symbolImage": "bcbc",
+    "color": "rgba(255;obj. 99;obj. 132;obj. 1)",
+    "addressHeader": 142,
+    "p2shHeader": 5,
+    "spendableCoinbaseDepth": 100,
+    "dumpedPrivateKeyHeader": 128,
+    "isSegWit": true,
+    "feeValue": 200000,
+    "minFeeValue": 1000,
+    "minNonDust": 5460,
+    "apiUrl": [
+      "https://chain.so/api/v2/address/"
+    ],
+    "testNet": true,
+    "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac"
+  }
+]
+]   "testNet": true,
+    "imageExists": true,
+    "address": "0x6a0a97e47d15aad1d132a1ac79a480e3f2079063"
+  }
+]
